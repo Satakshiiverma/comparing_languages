@@ -26,7 +26,8 @@ Henceforth,the languages used are as follows-
       ![image](https://github.com/Satakshiiverma/comparing_languages/assets/152150470/3c89e29f-5ff7-4f03-b7be-43939c43e7b9)
 
                                                      Etching graphs 
-       ![image](https://github.com/Satakshiiverma/comparing_languages/assets/152150470/d9ac9a86-975a-4c68-a81d-3bfb2857978d)
+       ![image](https://github.com/Satakshiiverma/comparing_languages/assets/152150470/99ebfb92-cd0f-4307-91dd-166938109914)
+
 
 
                                                       Conclusion
